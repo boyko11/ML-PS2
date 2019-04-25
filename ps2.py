@@ -78,5 +78,5 @@ def pca_x_shaped():
     plt.show()
 
 
-pca()
-#pca_x_shaped()
+#pca()
+pca_x_shaped()
